@@ -1,0 +1,11 @@
+patient_id,age,gender,length_of_stay,diagnosis,prior_admissions,chronic_condition,readmitted_30_days
+1,65,F,4,Diabetes,2,Yes,Yes
+2,45,M,2,Hypertension,0,No,No
+3,72,F,3,Heart Disease,3,Yes,Yes
+4,30,M,1,Infection,0,No,No
+5,55,F,5,Diabetes,1,Yes,Yes
+6,60,M,2,Hypertension,2,Yes,Yes
+7,25,F,1,Injury,0,No,No
+8,80,M,6,Heart Disease,4,Yes,Yes
+9,50,F,3,Diabetes,1,Yes,No
+10,67,M,4,Heart Disease,2,Yes,Yes
